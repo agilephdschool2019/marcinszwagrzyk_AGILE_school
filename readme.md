@@ -2,3 +2,6 @@
 
 Tartu, 25.-28. November, 2019
 
+![land use modelling areas] (areas.png)
+
+License: CC-BY
