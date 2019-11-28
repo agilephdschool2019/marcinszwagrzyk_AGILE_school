@@ -1,0 +1,31 @@
+---
+title: "AGILE PhD School - Key Takeaways"
+author: "Marcin Szwagrzyk"
+date: "27 11 2019"
+output: html_document
+---
+
+
+
+
+## Visualisation
+I came to PHD School with a problem how to visualize hundreds of modelling results
+
+QGIS blending styles help to some extent
+![land use modelling areas](areas.png)
+
+
+
+## Rproducibility
+I used a rather small amount of raw data: 13 land use maps
+I used hundreds of modelling areas, but they were generated automatically from 3 sets of basic units:
+administrative, physical and geometrical spatial units
+
+All of my code I uploaded already to my GitHUB repository
+[my repository](https://github.com/marcinszwagrzyk/LandUse_MAUP_model)
+![land use modelling areas](areas.png)
+
+
+
+
+## Science Communication
