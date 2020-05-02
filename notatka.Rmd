@@ -4,7 +4,6 @@ author:
   - name: Marcin Szwagrzyk
     affiliation: Jagiellonian University, Poland
     email: marcin.szwagrzyk@doctoral.uj.edu.pl
-    orcid: 0000-0000-0000-0000
 abstract: |
    How to visualize hundreds of modelling areas, and results for these units.
 output:
